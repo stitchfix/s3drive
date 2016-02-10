@@ -1,0 +1,7 @@
+# S3 Drive
+
+S3 backed ContentsManager for Ipython/Jupyter notebooks. Allows using S3
+as the primary storage layer.
+
+
+
